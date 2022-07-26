@@ -7,10 +7,10 @@
 
 客户端
 ![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/client.png)
-![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/client1.jpg)
-![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/client2.jpg)
+![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/client1.png)
+![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/client2.png)
 
 服务端
 ![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/server.png)
-![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/server1.jpg)
-![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/server2.jpg)
+![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/server1.png)
+![image](https://github.com/DengJianJing/Auction-With-BlockChain/blob/main/server2.png)
